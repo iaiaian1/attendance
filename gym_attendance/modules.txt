@@ -1,1 +1,1 @@
-Gym Attendance
+Gym Attendance Module
