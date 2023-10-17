@@ -1,7 +1,7 @@
 {
  "add_total_row": 0,
  "columns": [],
- "creation": "2023-10-13 17:28:01.772018",
+ "creation": "2023-10-16 13:08:26.678766",
  "disable_prepared_report": 0,
  "disabled": 0,
  "docstatus": 0,
@@ -9,16 +9,15 @@
  "filters": [],
  "idx": 0,
  "is_standard": "Yes",
- "json": "{}",
- "modified": "2023-10-16 15:39:06.828518",
+ "modified": "2023-10-16 13:08:26.678766",
  "modified_by": "Administrator",
  "module": "Gym Attendance Module",
- "name": "Gym Report Report Builder",
+ "name": "Test Report",
  "owner": "Administrator",
  "prepared_report": 0,
- "ref_doctype": "Members",
- "report_name": "Gym Report Report Builder",
- "report_type": "Report Builder",
+ "ref_doctype": "Test Parent",
+ "report_name": "Test Report",
+ "report_type": "Script Report",
  "roles": [
   {
    "role": "System Manager"

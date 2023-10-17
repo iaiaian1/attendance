@@ -1,0 +1,21 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "Gym Member Script Report Chart",
+   "width": "Full"
+  }
+ ],
+ "creation": "2023-10-17 16:06:08.040059",
+ "dashboard_name": "Gym Members Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2023-10-17 16:07:13.475946",
+ "modified_by": "Administrator",
+ "module": "Gym Attendance Module",
+ "name": "Gym Members Dashboard",
+ "owner": "Administrator"
+}

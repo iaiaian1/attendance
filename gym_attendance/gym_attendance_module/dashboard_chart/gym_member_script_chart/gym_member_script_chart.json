@@ -1,0 +1,32 @@
+{
+ "chart_name": "Gym Member Script Chart",
+ "chart_type": "Report",
+ "creation": "2023-10-17 15:45:42.655404",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "dynamic_filters_json": "{}",
+ "filters_json": "{}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "modified": "2023-10-17 15:51:18.564360",
+ "modified_by": "Administrator",
+ "module": "Gym Attendance Module",
+ "name": "Gym Member Script Chart",
+ "number_of_groups": 0,
+ "owner": "Administrator",
+ "report_name": "Gym Member Script Report with Chart",
+ "roles": [],
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Year",
+ "type": "Pie",
+ "use_report_chart": 1,
+ "x_field": "first_name",
+ "y_axis": [
+  {
+   "y_field": "age"
+  }
+ ]
+}

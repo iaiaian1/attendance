@@ -1,0 +1,28 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2023-10-17 15:40:43.469741",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "json": "{\"columns\":[{\"fieldname\":\"first_name\",\"label\":\"First Name\",\"fieldtype\":\"Data\",\"id\":\"first_name\",\"name\":\"First Name\",\"width\":null,\"editable\":false,\"compareValue\":null},{\"fieldname\":\"last_name\",\"label\":\"Last Name\",\"fieldtype\":\"Data\",\"id\":\"last_name\",\"name\":\"Last Name\",\"width\":null,\"editable\":false,\"compareValue\":null},{\"fieldname\":\"age\",\"label\":\"Age\",\"fieldtype\":\"Data\",\"id\":\"age\",\"name\":\"Age\",\"width\":null,\"editable\":false,\"compareValue\":null}],\"filters\":{}}",
+ "modified": "2023-10-17 15:57:32.615834",
+ "modified_by": "Administrator",
+ "module": "Gym Attendance Module",
+ "name": "Gym Member Script Report with Chart",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Members",
+ "reference_report": "",
+ "report_name": "Gym Member Script Report with Chart",
+ "report_type": "Custom Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ]
+}

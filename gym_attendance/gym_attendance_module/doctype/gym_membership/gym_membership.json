@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "format:{member}-{#####}",
+ "autoname": "format:{member}-{registration_date_end}",
  "creation": "2023-10-12 20:33:55.979741",
  "doctype": "DocType",
  "editable_grid": 1,
@@ -58,7 +58,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2023-10-13 16:58:39.379561",
+ "modified": "2023-10-16 14:20:53.272979",
  "modified_by": "Administrator",
  "module": "Gym Attendance Module",
  "name": "Gym Membership",
@@ -79,5 +79,6 @@
  ],
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "member",
  "track_changes": 1
 }

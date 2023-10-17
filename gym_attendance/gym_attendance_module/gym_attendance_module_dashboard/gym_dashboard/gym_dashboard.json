@@ -1,8 +1,12 @@
 {
- "cards": [],
+ "cards": [
+  {
+   "card": "Age Card"
+  }
+ ],
  "charts": [
   {
-   "chart": "Gym Member Chart",
+   "chart": "Gym Member Script Report with Chart",
    "width": "Full"
   }
  ],
@@ -13,7 +17,7 @@
  "idx": 0,
  "is_default": 0,
  "is_standard": 1,
- "modified": "2023-10-13 17:34:13.197904",
+ "modified": "2023-10-17 15:42:05.602278",
  "modified_by": "Administrator",
  "module": "Gym Attendance Module",
  "name": "Gym Dashboard",
